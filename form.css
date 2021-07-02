@@ -1,0 +1,25 @@
+
+.button {
+background-color:yellow;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+#colors
+{
+	background-color:lightblue;
+}
+#bannerimage {
+  width: 100%;
+  background-image: url(https://i.pinimg.com/originals/0b/a3/d6/0ba3d60362c7e6d256cfc1f37156bad9.jpg);
+  height: 405px;
+  background-color: purple;
+  background-position: center;
+}
